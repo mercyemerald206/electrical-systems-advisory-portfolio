@@ -1,0 +1,36 @@
+electrical-systems-advisory-portfolio/
+│
+├── README.md
+├── case-studies/
+│   ├── intelligent-fault-detection/
+│   │   ├── README.md
+│   │   ├── system_design.md
+│   │   ├── tradeoff_analysis.md
+│   │   ├── simulation.py
+│   │   └── results/
+│   │
+│   ├── power-system-optimization/
+│   │   ├── README.md
+│   │   ├── architecture.md
+│   │   ├── reliability_model.md
+│   │   └── simulation.py
+│   │
+│   ├── adaptive-circuit-analysis/
+│       ├── README.md
+│       ├── methodology.md
+│       ├── scenarios.md
+│       └── simulation.py
+│
+├── frameworks/
+│   ├── troubleshooting-framework.md
+│   ├── decision-making-under-uncertainty.md
+│   ├── engineering-tradeoffs-playbook.md
+│
+├── tools/
+│   ├── fault-detection-model.py
+│   ├── reliability-analysis.py
+│   └── system-simulation-engine.py
+│
+└── assets/
+    ├── diagrams/
+    └── charts/
