@@ -1,6 +1,6 @@
 # ⚡ Electrical Systems Advisory Portfolio
 
-## 🚀 Overview
+##  Overview
 This portfolio demonstrates **expert-level electrical engineering advisory capabilities**, combining:
 
 - Advanced system diagnostics
@@ -12,7 +12,7 @@ Built to operate in **high-ambiguity, high-stakes engineering environments**.
 
 ---
 
-## 🧠 Advisory Capabilities
+## Advisory Capabilities
 
 - Diagnose system failures with incomplete data
 - Evaluate trade-offs (cost vs reliability vs performance)
@@ -22,7 +22,7 @@ Built to operate in **high-ambiguity, high-stakes engineering environments**.
 
 ---
 
-## ⚡ Core Advisory Systems
+## Core Advisory Systems
 
 ### 1. AI Circuit Fault Diagnosis
 Advisory tool for diagnosing electrical faults and recommending corrective actions.
@@ -47,7 +47,7 @@ Every system is designed around:
 
 ---
 
-## 🧠 What Makes This Portfolio Different
+## What Makes me Different
 
 Most engineers:
 - Build systems
@@ -60,7 +60,7 @@ This portfolio:
 
 ---
 
-## ⚙️ Technical Foundation
+## Technical Foundation
 
 - FastAPI microservices
 - Machine learning pipelines
@@ -70,12 +70,12 @@ This portfolio:
 
 ---
 
-## 📌 Positioning
+## Positioning
 
 This portfolio represents:
 **Electrical Engineering Expert × Systems Thinker × AI Advisor**
 
 ---
 
-## 📬 Contact
+## Contact
 Available for high-impact engineering advisory and AI system design roles.
